@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271334159747",
+    "project_id": "social-media-app-3d58e",
+    "storage_bucket": "social-media-app-3d58e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271334159747:android:414801f0522e837094f2b6",
+        "android_client_info": {
+          "package_name": "com.example.actonica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2Nh6dqsY9qt928GOFHZI8MVaPXxxKxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
